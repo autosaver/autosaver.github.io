@@ -7,6 +7,8 @@ range: 'Nov-2019 - March 2020'
 url: 'http://theonlinepadhai.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
+- Developed and maintained code for in-house and client websites primarily using HTML, CSS, JavaScript, and Django
+- Content creation and team management for a whole group of students 
 - Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Authentication and Database management using wordpress 
+

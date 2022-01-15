@@ -7,6 +7,7 @@ range: 'May 2020 - July 2020'
 url: 'https://www.edgegrid.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Creating backend scripts and performing Automation of complex calculations using python 
+- Tracking the product development and coordinate between Frontend and Backend teams
+- Making EPICs, Features, and User Stories for different screens and functions of the app on AzureDevOps.
+- Debugging and suggesting improvements for the Demo app and functionality
