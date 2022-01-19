@@ -16,4 +16,16 @@
   </a>
 </p>
 
+My tweeks:
+
+To install required pakages:
+- yarn 
+To start the dev server :
+- npm run start
+To publish repo as a master branch:
+- npm run deploy
+
+See package.json for further details ........
+
+
  [brittanychiang.com](https://brittanychiang.com). Thanks!
