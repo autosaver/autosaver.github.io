@@ -23,6 +23,7 @@ To install required pakages:
 To start the dev server :
 - npm run start
 To publish repo as a master branch:
+- npm run build
 - npm run deploy
 
 See package.json for further details ........

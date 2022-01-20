@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Aditya Kumar singh',
     description:
-      'Aditya Chiang is a software engineer specializing in building scripts, websites and occasionally designing web services',
+      'Aditya singh is a software engineer specializing in building scripts, websites and occasionally designing web services',
     siteUrl: 'https://autosaver.github.io/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Adityak68359495',
