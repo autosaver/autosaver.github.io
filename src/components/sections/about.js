@@ -138,7 +138,7 @@ const About = () => {
             <p>
               Hello! My name is Aditya kumar singh and I Love to solve complex coding problems
               I want to be a Full-stack Web developer using python, ReactJS and Django . 
-              I am currently a UG in <a href="https://iith.ac.in/" target="_blank">IIT-Hyderabad</a> and placed in amazon as an SDE-1.
+              I am currently a UG in <a href="https://iith.ac.in/" target="_blank">IIT-Hyderabad</a> and placed in <a href="/">Amazon</a> as an SDE-1.
             </p>
 
             <p>
